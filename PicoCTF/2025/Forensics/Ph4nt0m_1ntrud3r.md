@@ -1,5 +1,5 @@
 ### Challenge: Ph4nt0m_1ntrud3r
-### Points: 50
+### Difficulty: Easy
 #### Author: deathwish24
 
 The author of this challenge provides a packet capture file and it we need to analyze it in order to find the flag.
