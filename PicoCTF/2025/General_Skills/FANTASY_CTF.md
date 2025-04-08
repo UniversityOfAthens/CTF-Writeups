@@ -1,5 +1,5 @@
 ### Challenge: FANTASY CTF
-### Points: 10
+### Difficulty: Easy
 #### Author: deathwish24
 
 In order to solve this challenge we need to connect to the given IP and port using `netcat`:
