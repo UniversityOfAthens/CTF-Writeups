@@ -1,6 +1,6 @@
 ### Challenge: FANTASY CTF
 ### Difficulty: Easy
-#### Author: deathwish24
+#### Prepared by: deathwish24
 
 In order to solve this challenge we need to connect to the given IP and port using `netcat`:
 
